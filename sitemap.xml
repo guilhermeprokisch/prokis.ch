@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>https://prokis.ch/</loc>
+  <lastmod>2020-03-03T20:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://prokis.ch/2020/</loc>
+  <lastmod>2020-03-03T20:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://prokis.ch/archive.html</loc>
+  <lastmod>2020-03-03T20:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://prokis.ch/categories/</loc>
+  <lastmod>2020-03-03T20:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://prokis.ch/galleries/</loc>
+  <lastmod>2020-03-03T20:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://prokis.ch/listings/</loc>
+  <lastmod>2020-03-03T20:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://prokis.ch/posts/first-post-markdown/</loc>
+  <lastmod>2020-03-03T20:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://prokis.ch/posts/first-post/</loc>
+  <lastmod>2020-03-03T20:17:00Z</lastmod>
+ </url>
+</urlset>
