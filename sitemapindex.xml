@@ -7,14 +7,14 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://prokis.ch/galleries/rss.xml</loc>
-  <lastmod>2020-03-03T20:15:00Z</lastmod>
+  <lastmod>2020-03-03T21:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://prokis.ch/rss.xml</loc>
-  <lastmod>2020-03-03T20:17:00Z</lastmod>
+  <lastmod>2020-03-03T21:09:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://prokis.ch/sitemap.xml</loc>
-  <lastmod>2020-03-03T20:17:00Z</lastmod>
+  <lastmod>2020-03-03T21:09:00Z</lastmod>
  </sitemap>
 </sitemapindex>
