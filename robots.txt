@@ -1,4 +1,0 @@
-Sitemap: https://prokis.ch/sitemapindex.xml
-
-User-Agent: *
-Host: prokis.ch
